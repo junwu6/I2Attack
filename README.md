@@ -13,7 +13,7 @@ The code has been tested under Python 3.6.5. The required packages are as follow
 ## Data sets
 We used the following data sets in our experiments:
 * [MNIST](http://yann.lecun.com/exdb/mnist/), [USPS](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/), [SVHN](http://ufldl.stanford.edu/housenumbers/)
-* [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/), [Office-Caltech10](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/), Office-Home(https://www.hemanthdv.org/officeHomeDataset.html)
+* [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/), [Office-Caltech10](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/), [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)
 * [Image-CLEF](https://drive.google.com/file/d/0B9kJH0-rJ2uRS3JILThaQXJhQlk/view), [VisDA2017](http://ai.bu.edu/visda-2017/)
 
 ## Run the Codes
