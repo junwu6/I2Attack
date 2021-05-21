@@ -31,7 +31,7 @@ pyhton main.py
 This is the latest source code of **I2Attack** for KDD2021. If you find that it is helpful for your research, please consider to cite our paper:
 
 ```
-@inproceedings{wu2021scalable,
+@inproceedings{wu2021indirect,
   title={Indirect Invisible Poisoning Attacks on Domain Adaptation},
   author={Wu, Jun and He, Jingrui},
   booktitle={Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining},
