@@ -34,7 +34,7 @@ This is the latest source code of **I2Attack** for KDD2021. If you find that it 
 @inproceedings{wu2021indirect,
   title={Indirect Invisible Poisoning Attacks on Domain Adaptation},
   author={Wu, Jun and He, Jingrui},
-  booktitle={Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining},
+  booktitle={Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
   year={2021},
   organization={ACM}
 }
