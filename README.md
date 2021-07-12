@@ -1,5 +1,5 @@
 # I2Attack
-An implementation for "Indirect Invisible Poisoning Attacks on Domain Adaptation" (KDD'21) [Paper](http://publish.illinois.edu/junwu3/files/2021/06/KDD21_camera_ready_I2Attack-2.pdf).
+An implementation for "Indirect Invisible Poisoning Attacks on Domain Adaptation" (KDD'21) [[Paper]](http://publish.illinois.edu/junwu3/files/2021/06/KDD21_camera_ready_I2Attack-2.pdf).
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:
